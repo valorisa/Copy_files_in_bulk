@@ -1,7 +1,7 @@
 # Copy_files_in_bulk
 These are PowerShell, Go and Python scripts that copies files from a source directory to multiple destination directories.
 
- Here’s a step-by-step explanation :
+Here’s a step-by-step explanation of the PowerShell version :
 
 Define Variables : The script first prompts the user to enter the full path of the input file and the list of destination directories, separated by commas.
 
@@ -27,7 +27,7 @@ Copy File to Directory : It copies the file to the destination directory.
 
 Check Destination File : It checks if the file already exists in the destination directory.
 
-Confirm Overwrite : If the file exists, it prompts the user to confirm whether they want to overwrite the file. If the user enters anything other than “O” (for Oui, or Yes), it skips copying the file to that directory.
+Confirm Overwrite : If the file exists, it prompts the user to confirm whether they want to overwrite the file. If the user enters anything other than “Y” (for Yes), it skips copying the file to that directory.
 
 End of Script : The script ends after processing all lines in the input file and all destination directories.
 
