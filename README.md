@@ -1,7 +1,7 @@
 # Copy_files_in_bulk
 This is a PowerShell script that copies files from a source directory to multiple destination directories.
 
- Here’s a step-by-step explanation:
+ Here’s a step-by-step explanation :
 
 Define Variables : The script first prompts the user to enter the full path of the input file and the list of destination directories, separated by commas.
 
