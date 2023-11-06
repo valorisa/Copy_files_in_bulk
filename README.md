@@ -1,7 +1,7 @@
 # Copy_files_in_bulk
 These are PowerShell, Go and Python scripts that copies files from a source directory to multiple destination directories.
 
-Here’s a step-by-step explanation of the PowerShell version :
+Here’s a step-by-step explanation of the initial PowerShell version :
 
 Define Variables : The script first prompts the user to enter the full path of the input file and the list of destination directories, separated by commas.
 
