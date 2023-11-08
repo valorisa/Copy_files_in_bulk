@@ -1,3 +1,5 @@
+![banner](https://github.com/valorisa/Copy_files_in_bulk/assets/13067566/50990d63-3804-410e-90da-a0c19871a43a)
+
 # Copy_files_in_bulk
 These are PowerShell, Go and Python scripts that copy files from a source directory to multiple destination directories.
 
